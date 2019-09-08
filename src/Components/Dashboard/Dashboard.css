@@ -1,0 +1,25 @@
+.searchbar{
+    width:60%;
+    height: 5%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 300px;
+    
+}
+.searchbar > search {
+    width: 75%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+
+}
+.mappedposts{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
